@@ -1,0 +1,6 @@
+#ifndef CORE_HYD
+#define CORE_HYD
+#define DEBUG
+
+
+#endif
